@@ -1,4 +1,4 @@
-package com.example.StudentManagementApiApplication.java.entity;
+package com.example.studentmanagementapi.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
