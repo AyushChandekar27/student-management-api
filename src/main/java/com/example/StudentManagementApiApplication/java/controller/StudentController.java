@@ -1,7 +1,7 @@
-package com.example.studentmanagementapi.controller;
+package com.example.StudentManagementApiApplication.java.controller;
 
-import com.example.studentmanagementapi.entity.Student;
-import com.example.studentmanagementapi.service.StudentService;
+import com.example.StudentManagementApiApplication.java.entity.Student;
+import com.example.StudentManagementApiApplication.java.service.StudentService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

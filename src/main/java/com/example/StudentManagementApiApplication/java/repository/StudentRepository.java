@@ -1,6 +1,6 @@
-package com.example.studentmanagementapi.repository;
+package com.example.StudentManagementApiApplication.java.repository;
 
-import com.example.studentmanagementapi.entity.Student;
+import com.example.StudentManagementApiApplication.java.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
-package com.example.studentmanagementapi.service;
+package com.example.StudentManagementApiApplication.java.service;
 
-import com.example.studentmanagementapi.entity.Student;
-import com.example.studentmanagementapi.repository.StudentRepository;
+import com.example.StudentManagementApiApplication.java.entity.Student;
+import com.example.StudentManagementApiApplication.java.repository.StudentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
